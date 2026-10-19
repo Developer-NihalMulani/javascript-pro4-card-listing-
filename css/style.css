@@ -1,0 +1,38 @@
+*{
+    color: black;
+}
+body{
+    background-color: white;
+}
+
+.container{
+    margin: 0 auto;
+}
+
+.logo-frame{
+    width: 150px;
+    height: 60px;
+}
+
+.search{
+    color: black;
+}
+
+.card-img-frame{
+    width: 150px;
+    aspect-ratio: 1/1;
+    margin: 0 auto;
+    margin-top: 8px;
+}
+
+.w-40{
+    width: 40%;
+}
+
+.products-card{
+    width: 310px;
+}
+
+.title{
+    margin: 0 auto;
+}
